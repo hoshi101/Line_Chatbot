@@ -1,0 +1,23 @@
+//Noted for LINE CHATBOT//
+
+Channel secret: d198b2eae368c5363c5f21ab40e68a23
+
+Channel access token: JTiN9V2qMgnRrmEz6Qk8GsTJev9zN2JDRWo0pNf/7jPPhTIgmDzqSM4SOkoBl1PJOMJ9/TcjtYjx78lFoneeWqMtMNiJYN/7Z2ii2Xk9IoFyinABZLrVEDiRnoGBdZMJ9DUdOaKLzXcSTGNskT94SwdB04t89/1O/w1cDnyilFU=
+
+Wit.ai Server Acess Token: NWR4IC3SVPNFUKPOUA65TRQ4RFT3WAVD
+
+Gemini API-KEY: AIzaSyDmnTGlifPXbV3fUH6hm9oZ2msEYlcJ5pc
+
+Stability ai picture API-KEY :  sk-fStdzsnmhdC1N6LgpisFg9fDVkYq8C875UShN6Cvxubz6kys
+
+pythonanywhere account(cloud): shibottest/hotmail2504
+
+
+
+--https://shibottest.pythonanywhere.com
+
+--litle-project 
+ส่งภาพ shotscreen จาก line 10ผลการทดลอง
+ให้ดัดแปลงโค๊ดตัวอย่างแล้วทำการทดลองรันผล
+แล้ว shotscreen ใส่ word or powerpoint 
+ส่งหน้าเว็ปไซต์อบรม https://sites.google.com/view/pylinechatbot
