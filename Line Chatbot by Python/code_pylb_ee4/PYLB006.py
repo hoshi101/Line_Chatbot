@@ -1,5 +1,5 @@
 from wit import Wit
-wit_access_token = "NWR4IC3SVPNFUKPOUA65TRQ4RFT3WAVD"
+wit_access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 client = Wit(wit_access_token)
 
 text = "สวัสดีครับ"

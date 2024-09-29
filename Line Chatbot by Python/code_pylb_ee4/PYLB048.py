@@ -11,11 +11,11 @@ import tempfile
 from PIL import Image
 
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyDmnTGlifPXbV3fUH6hm9oZ2msEYlcJ5pc")
+genai.configure(api_key="***************************************")
 model = genai.GenerativeModel("gemini-pro-vision")
 
-channel_secret = "d198b2eae368c5363c5f21ab40e68a23"
-channel_access_token = "JTiN9V2qMgnRrmEz6Qk8GsTJev9zN2JDRWo0pNf/7jPPhTIgmDzqSM4SOkoBl1PJOMJ9/TcjtYjx78lFoneeWqMtMNiJYN/7Z2ii2Xk9IoFyinABZLrVEDiRnoGBdZMJ9DUdOaKLzXcSTGNskT94SwdB04t89/1O/w1cDnyilFU="
+channel_secret = "***************************************"
+channel_access_token = "***************************************/***************************************/***************************************/***************************************/***************************************/***************************************="
 
 line_bot_api = LineBotApi(channel_access_token)
 handler = WebhookHandler(channel_secret)

@@ -1,8 +1,8 @@
 import GT
 import cv2
 from stability_ai import text2image
-api_key   = "sk-fStdzsnmhdC1N6LgpisFg9fDVkYq8C875UShN6Cvxubz6kys"
-engine_id = "stable-diffusion-v1-6"
+api_key   = "***************************************"
+engine_id = "***************************************"
 filename_save = "image_out14.jpg"
 
 prompt_text_th = "กล้วยยิ้มมีความสุขมากๆ"

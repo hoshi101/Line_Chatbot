@@ -6,10 +6,10 @@ from linebot.models import (MessageEvent,
 
 from wit import Wit
 
-channel_secret = "d198b2eae368c5363c5f21ab40e68a23"
-channel_access_token = "JTiN9V2qMgnRrmEz6Qk8GsTJev9zN2JDRWo0pNf/7jPPhTIgmDzqSM4SOkoBl1PJOMJ9/TcjtYjx78lFoneeWqMtMNiJYN/7Z2ii2Xk9IoFyinABZLrVEDiRnoGBdZMJ9DUdOaKLzXcSTGNskT94SwdB04t89/1O/w1cDnyilFU="
+channel_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+channel_access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-wit_access_token = "NWR4IC3SVPNFUKPOUA65TRQ4RFT3WAVD"
+wit_access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 client = Wit(wit_access_token)
 
 line_bot_api = LineBotApi(channel_access_token)
