@@ -1,14 +1,14 @@
 //Noted for LINE CHATBOT//
 
-Channel secret: d198b2eae368c5363c5f21ab40e68a23
+Channel secret: ***************************************
 
-Channel access token: JTiN9V2qMgnRrmEz6Qk8GsTJev9zN2JDRWo0pNf/7jPPhTIgmDzqSM4SOkoBl1PJOMJ9/TcjtYjx78lFoneeWqMtMNiJYN/7Z2ii2Xk9IoFyinABZLrVEDiRnoGBdZMJ9DUdOaKLzXcSTGNskT94SwdB04t89/1O/w1cDnyilFU=
+Channel access token: ***************************************
 
-Wit.ai Server Acess Token: NWR4IC3SVPNFUKPOUA65TRQ4RFT3WAVD
+Wit.ai Server Acess Token: ***************************************
 
-Gemini API-KEY: AIzaSyDmnTGlifPXbV3fUH6hm9oZ2msEYlcJ5pc
+Gemini API-KEY: ***************************************
 
-Stability ai picture API-KEY :  sk-fStdzsnmhdC1N6LgpisFg9fDVkYq8C875UShN6Cvxubz6kys
+Stability ai picture API-KEY :  ***************************************
 
 pythonanywhere account(cloud): shibottest/hotmail2504
 
